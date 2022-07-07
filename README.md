@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ndswimming26
+- 👋 Hi, I’m Nicholas!
 - 👀 I’m interested in Photography, the outdoors and learning to build websites
 - 🌱 I’m currently learning HTML, CSS and JavaScript 
 - 💞️ I’m looking to collaborate on various projects that will help me to learn HTML, CSS and JavaScript 

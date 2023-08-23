@@ -2,7 +2,7 @@
 - 👀 I’m interested in Photography, the outdoors and learning to build websites
 - 🌱 I’m currently learning HTML, CSS and JavaScript 
 - 💞️ I’m looking to collaborate on various projects that will help me to learn HTML, CSS and JavaScript 
-- 📫 How to reach me - EmailL nicholas.davidson.20@gmail.com
+- 📫 How to reach me - Email nicholas.davidson.20@gmail.com
 
      Thanks!
 
